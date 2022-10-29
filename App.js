@@ -4,6 +4,6 @@ import ViewImageScreen from './.vscode/app/screens/ViewImageScreen';
 import WelcomeScreen from './.vscode/app/screens/WelcomeScreen';
 
 export default function App() {
-   return <ViewImageScreen />;
+   return <WelcomeScreen />;
    
 }
